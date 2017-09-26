@@ -47,3 +47,10 @@ apps
 *.swp
 __install
 __release
+examples/viccom/app.lua
+examples/viccom/.vscode/.sftpConfig.json
+examples/viccom/.vscode/launch.json
+examples/viccom/.vscode/settings.json
+examples/viccom/.vscode/settings.json
+.gitignore
+.gitignore
